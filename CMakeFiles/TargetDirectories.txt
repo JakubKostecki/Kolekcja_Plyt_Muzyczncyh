@@ -1,0 +1,8 @@
+C:/Users/kubac/Documents/build-KolekcjaPlytMuzycznych-Desktop_Qt_6_4_2_MSVC2019_64bit-Release/CMakeFiles/KolekcjaPlytMuzycznych.dir
+C:/Users/kubac/Documents/build-KolekcjaPlytMuzycznych-Desktop_Qt_6_4_2_MSVC2019_64bit-Release/CMakeFiles/edit_cache.dir
+C:/Users/kubac/Documents/build-KolekcjaPlytMuzycznych-Desktop_Qt_6_4_2_MSVC2019_64bit-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/kubac/Documents/build-KolekcjaPlytMuzycznych-Desktop_Qt_6_4_2_MSVC2019_64bit-Release/CMakeFiles/list_install_components.dir
+C:/Users/kubac/Documents/build-KolekcjaPlytMuzycznych-Desktop_Qt_6_4_2_MSVC2019_64bit-Release/CMakeFiles/install.dir
+C:/Users/kubac/Documents/build-KolekcjaPlytMuzycznych-Desktop_Qt_6_4_2_MSVC2019_64bit-Release/CMakeFiles/install/local.dir
+C:/Users/kubac/Documents/build-KolekcjaPlytMuzycznych-Desktop_Qt_6_4_2_MSVC2019_64bit-Release/CMakeFiles/KolekcjaPlytMuzycznych_autogen_timestamp_deps.dir
+C:/Users/kubac/Documents/build-KolekcjaPlytMuzycznych-Desktop_Qt_6_4_2_MSVC2019_64bit-Release/CMakeFiles/KolekcjaPlytMuzycznych_autogen.dir

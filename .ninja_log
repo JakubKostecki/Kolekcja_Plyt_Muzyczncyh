@@ -1,0 +1,9 @@
+# ninja log v5
+3	625	6961134751844820	KolekcjaPlytMuzycznych_autogen/timestamp	24364a6b2beaa7c9
+3	625	6961134751844820	KolekcjaPlytMuzycznych_autogen/mocs_compilation.cpp	24364a6b2beaa7c9
+3	625	6961134751844820	C:/Users/kubac/Documents/build-KolekcjaPlytMuzycznych-Desktop_Qt_6_4_2_MSVC2019_64bit-Release/KolekcjaPlytMuzycznych_autogen/timestamp	24364a6b2beaa7c9
+3	625	6961134751844820	C:/Users/kubac/Documents/build-KolekcjaPlytMuzycznych-Desktop_Qt_6_4_2_MSVC2019_64bit-Release/KolekcjaPlytMuzycznych_autogen/mocs_compilation.cpp	24364a6b2beaa7c9
+626	4680	6961134794319018	CMakeFiles/KolekcjaPlytMuzycznych.dir/KolekcjaPlytMuzycznych_autogen/mocs_compilation.cpp.obj	a10755d6c8ca9c91
+629	4685	6961134794338990	CMakeFiles/KolekcjaPlytMuzycznych.dir/main.cpp.obj	5c41a2d9d00652b7
+633	5128	6961134798824819	CMakeFiles/KolekcjaPlytMuzycznych.dir/kolekcjaplytmuzycznych.cpp.obj	b077f891bd40a959
+5128	5854	6961134806080358	KolekcjaPlytMuzycznych.exe	4d9eee13f7537dc5
